@@ -1,0 +1,16 @@
+.gitignore
+README.md
+git remote -v
+git push --set-upstream orign master
+建立branch
+git status
+git branch root
+git branch --list
+git switch root
+git branch --list
+git add main.py datasource.py logo.png __init__.py
+git push orign root
+
+分享settings 
+collaborators
+add people 
