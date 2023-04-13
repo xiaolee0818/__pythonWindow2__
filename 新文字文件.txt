@@ -10,6 +10,7 @@ git switch root
 git branch --list
 git add main.py datasource.py logo.png __init__.py
 git push orign root
+git merge
 
 分享settings 
 collaborators
